@@ -14,7 +14,7 @@ public class Rectangle extends Shape{
 		return this.h;
 	}
 	
-	public int getWeight(){
+	public int getWidth(){
 		return this.w;
 	}
 	
